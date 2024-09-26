@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jalaramnursery/static/css/main.8738c651.css",
+    "main.js": "/jalaramnursery/static/js/main.a065086f.js",
+    "static/js/453.98c1fa47.chunk.js": "/jalaramnursery/static/js/453.98c1fa47.chunk.js",
+    "index.html": "/jalaramnursery/index.html",
+    "main.8738c651.css.map": "/jalaramnursery/static/css/main.8738c651.css.map",
+    "main.a065086f.js.map": "/jalaramnursery/static/js/main.a065086f.js.map",
+    "453.98c1fa47.chunk.js.map": "/jalaramnursery/static/js/453.98c1fa47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8738c651.css",
+    "static/js/main.a065086f.js"
+  ]
+}
